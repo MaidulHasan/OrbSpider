@@ -34,8 +34,8 @@ So, there you go...
 
 01. It will go to the homepage of MAL, find and get to the login-form page.
 02. Will enter the login credentials, login, redirect to the main page and accept cookies from the popup window.
-03. Will navigating to the desired page (in this case to the list of all the anime that i've already completed)
-04. Will extract the Field data (see items.py section to find more information about the fields used) and store them in a sqlite Database (see pipelines.py section to find more information about the storing process).
+03. Will navigate to the desired page (in this case to the list of all the anime that i've already completed)
+04. Will extract the Field data (see items.py section to find more information about the fields used) and store them in a SQlite Database (see pipelines.py section to find more information about the storing process).
 
 
 <------> /spiders/MALCompleted.py:
@@ -77,5 +77,5 @@ To avoid getting banned i've set AUTOTHROTTLE_ENABLED and HTTPCACHE_ENABLED to T
 
 To avoid complexity I've set ROBOTSTXT_OBEY to False but, I encourage you to follow the robots.txt rules if possible.
 
-You can change the image store path in the settings.py file. In case we need to download an image of larger size, i've set the download timeout to 20 min. You can change that too, according to your need.
+You can change the image store path in the settings.py file. In case we need to download an image of larger size, i've set the download timeout to 30 min. According to your need you can change that too.
 
