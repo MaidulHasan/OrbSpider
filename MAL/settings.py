@@ -83,7 +83,7 @@ ITEM_PIPELINES = {
 
 IMAGES_STORE = 'Path to the directory, you want to save the images to'
 
-DOWNLOAD_TIMEOUT = 1200
+DOWNLOAD_TIMEOUT = 1800
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
