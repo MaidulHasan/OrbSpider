@@ -12,7 +12,7 @@ A Spider (web scraper) built using scrapy and scrapy-selenium
 
 I've used MAL as the target website in this project.
 
-For those of you who doesn't know what MAL is -
+For those of you who don't know what MAL is -
    " MyAnimeList (MAL) is the world's most active online anime and manga community and database. "
 It's fun, Check it out... you surely won't regret it.
 
