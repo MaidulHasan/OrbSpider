@@ -30,7 +30,7 @@ So, the next question arises... why not use selenium solely for web scraping? Th
 So, there you go...
 
 
-<----------> What will it do?:
+<----------> What will it (the OrbSpider) do?:
 
 01. It will go to the homepage of MAL, find and get to the login-form page.
 02. Will enter the login credentials, login, redirect to the main page and accept cookies from the popup window.
