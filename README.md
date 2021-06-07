@@ -74,7 +74,7 @@ Use DB Browser for Sqlite to view the database.
 <------> /settings.py:
 To avoid getting banned i've set AUTOTHROTTLE_ENABLED and HTTPCACHE_ENABLED to True.
 
-To avoid complexity I've set ROBOTSTXT_OBEY to False but, I encourage you to follow the robots.txt rules if possible.
+To avoid complexity I've set ROBOTSTXT_OBEY to False. But, I encourage you to follow the robots.txt rules if possible.
 
 You can change the image store path in the settings.py file. In case we need to download an image of larger size, i've set the download timeout to 30 min. According to your need you can change that too.
 
