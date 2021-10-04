@@ -6,15 +6,10 @@ OrbSpider is a Spider (web scraper), built using scrapy and scrapy-selenium.
 
    I hope my work helps some people, at least to some degree.
 
-   Fork & Star the repository if you like it! TIA..... Hope you have a great day.
+  
 --------------------------------------------------------------------------
 
-
-I've used MAL as the target website in this project.
-
-For those of you who don't know what MAL is -
-   " MyAnimeList (MAL) is the world's most active online anime and manga community and database. "
-
+I've used MAL (MyAnimeList) as the target website in this project.
 
 <----------> Why use scrapy and selenium both? Why not use only one?:
 
