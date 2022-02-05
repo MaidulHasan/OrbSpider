@@ -4,8 +4,6 @@ OrbSpider is a Spider (web scraper), built using scrapy and scrapy-selenium.
    This project covers almost every frequently used action and process of Web scraping (using scrapy & selenium).
    So if needed, you can use it for reference.
 
-   I hope my work helps some people, at least to some degree.
-
   
 --------------------------------------------------------------------------
 
